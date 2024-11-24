@@ -47,8 +47,16 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wondemathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="wondemathe" /></p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wondemathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="wondemathe" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wondemathe&show_icons=true&locale=en&theme=radical" alt="wondemathe" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wondemathe&show_icons=true&locale=en&theme=radical" alt="wondemathe" />
+  </p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wondemathe&theme=radical" alt="wondemathe" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wondemathe&theme=radical" alt="wondemathe" />
+</p>

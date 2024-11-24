@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wondwosen</h1>
-<h5>I’m a passionate front-end web developer and a student of Computer Information Science at Addis Ababa University, Ethiopia. I’m eager to enhance my skills and work on exciting projects in the web development space. My passion for web development comes from designing intuitive user interfaces and ensuring seamless user experiences with clean, efficient code.</h5>
+<h4>I’m a passionate front-end web developer and a student of Computer Information Science at Addis Ababa University, Ethiopia. I’m eager to enhance my skills and work on exciting projects in the web development space. My passion for web development comes from designing intuitive user interfaces and ensuring seamless user experiences with clean, efficient code.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wondemathe&label=Profile%20views&color=0e75b6&style=flat" alt="wondemathe" /> </p>
 

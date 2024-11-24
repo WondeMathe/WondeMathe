@@ -47,16 +47,14 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wondemathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="wondemathe" />
-  </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wondemathe&show_icons=true&locale=en&theme=radical" alt="wondemathe" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wondemathe&show_icons=true&locale=en&theme=radical" alt="wondemathe" />
-  </p>
-</div>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wondemathe&theme=radical" alt="wondemathe" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wondemathe&show_icons=true&locale=en&layout=compact&theme=radical" alt="wondemathe" />
 </p>
